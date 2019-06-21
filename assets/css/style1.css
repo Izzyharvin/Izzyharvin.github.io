@@ -39,3 +39,17 @@ footer {
 section, h2 {
     text-color: teal;
 }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+.center {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    margin: 10%;
+    padding: 10%;
+}
