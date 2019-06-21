@@ -46,3 +46,25 @@ section, h2 {
     color: black;
 }
 
+.fullBox {
+    position: relative;
+    text-align: center;
+    color: black;
+    overflow: auto;
+}
+.photo {
+    width: 250px;
+    position: relative;
+    text-align: center;
+    color: black;
+    overflow: auto;
+}
+.photo img{
+    width: 100%;
+}
+.centered{
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    background-color:teal;
+}
