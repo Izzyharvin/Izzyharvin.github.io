@@ -7,7 +7,7 @@ body {
 }
 nav{
     max-width: 100%;
-    background-color: gray;
+    background-color: white;
     height: 100px;
 }
 .name{
@@ -39,3 +39,8 @@ footer {
 section, h2 {
     text-color: teal;
 }
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
